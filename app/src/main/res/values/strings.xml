@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Direct Assistance</string>
+    <string name="messageCreate">$username, to make things easier, we will provide you will some standard quick reply messages, but it never hruts to have your own personalized message for greeting others</string>
+    <string name="helloMessage">Hello, to get started please pick the name that you would like to use to talk to others</string>
+</resources>
